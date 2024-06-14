@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_diffuse.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_MAT2.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_normal.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_specular.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/ABP_Character1.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/ABP_Character.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/ABP_Character.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/D3/36NM4PFIBL5QI6TWSZAXHQ.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Knight_D_Pelegrini.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Knight_D_Pelegrini_Skeleton.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Knight_D_Pelegrini_PhysicsAsset.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Idle.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Walking.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Jumping.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Throw.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Fast_Run.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Jumping_Montage.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/FX/Particles/NS_HangingParticles.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/FX/Particles/M_Dust.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/S9/010S16XYSKAK52XAVZFW7T.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/FX/Particles/M_Fog.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/FX/Particles/NS_Smoke.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/0I/XQZ0TU9ZYUC5NG4M2DAJ5R.uasset"
+			]
+		}
+	]
+}
