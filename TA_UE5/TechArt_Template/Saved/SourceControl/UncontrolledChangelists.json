@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/8617/Documents/TechnicalArt/TA_UE5/TechArt_Template/Content/MyContent/Maps/landscape.uasset",
+				"C:/Users/8617/Documents/TechnicalArt/TA_UE5/TechArt_Template/Content/MyContent/Maps/lvl_Landscape.umap",
 				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_diffuse.uasset",
 				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_MAT2.uasset",
 				"E:/UnrealProjects/TA-Houdini/TA_UE5/TechArt_Template/Content/MyContent/Character/MixamoContent/Knight/Materials/Knight_normal.uasset",
