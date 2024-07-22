@@ -25,3 +25,7 @@ TA_UE5/TechArt_Template/Content/MyContent/Maps/lvl_Landscape.umap
 
 
 TA-Houdini\TA_UE5\TechArt_Template\Packages*
+/TA_UE5/TechArt_Template/Intermediate
+/TA_UE5/TechArt_Template/Packages/Windows/Engine/Binaries/ThirdParty
+/TA_UE5/TechArt_Template/Binaries
+TA_UE5/TechArt_Template/Packages/TechArt_Template.zip
